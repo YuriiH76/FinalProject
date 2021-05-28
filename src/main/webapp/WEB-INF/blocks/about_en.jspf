@@ -1,0 +1,55 @@
+﻿<main role="main">
+    <div class="jumbotron">
+        <div class="container">
+            <h1 class="display-3">Internet provider "Link you"!</h1>
+            <p>We are a fairly young company that is developing rapidly due to excellent service and a friendly team.
+                We offer the opportunity to connect to high-speed Internet via fiber optic cable for quite a small fee.
+                This will allow you to appreciate our other services, namely television and unlimited communication
+                with family and friends.
+            </p>
+            <p>We work for you!</p>
+            <p>Sincerely, the "Link you" team!</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Internet</h2>
+                <p>High-speed Internet via fiber-optic cable up to 1000 Mbps.
+                    Today, the Internet is an integral part of our lives. We keep in touch with loved ones
+                    via social networks and Skype, watch your favorite series and movies, immerse yourself in
+                    virtual world of online video games and can not stand when at the most interesting moment us
+                    deprive this opportunity. Therefore, we make every effort to make the Internet accessible,
+                    uninterrupted and fast. And thanks to the use of FTTH technology (fiber-optic to the house).
+                </p>
+                <p><a class="btn btn-secondary" href="/ip/tariffs.jsp" role="button">Connect »</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Phone</h2>
+                <p>The company is a recognized leader in the telecommunications services market and in addition
+                    to providing high-speed Internet access, we offer a telephone service. Using profitable
+                    offers, each customer at a good price will be able to get a quality connection.
+                </p>
+                <p><a class="btn btn-secondary" href="/ip/tariffs.jsp" role="button">Connect »</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>IP-TV</h2>
+                <p>The company is a recognized leader in the telecommunications services market and in addition
+                    to providing high-speed Internet access, we offer a digital IP-TV service. Using profitable
+                    offers, each customer at a good price, will be able to get more than
+                    100 HD channels in excellent quality.
+                </p>
+                <p><a class="btn btn-secondary" href="/ip/tariffs.jsp" role="button">Connect »</a></p>
+            </div>
+            <div class="col-md-4">
+                <h2>Cable TV</h2>
+                <p>By connecting cable TV via analog technology you get access to TV channels on
+                    second and third TV without additional equipment and the possibility of simultaneous
+                    view different programs on each TV device.
+                <p><a class="btn btn-secondary" href="/ip/tariffs.jsp" role="button">Connect »</a></p>
+            </div>
+        </div>
+        <hr>
+    </div>
+</main>
